@@ -1,0 +1,36 @@
+@media screen and (min-width:200px ) {
+
+.banner{
+    background:#D7CCC8;
+	border-radius:5px;
+	box-shadow: 2px 2px 2px black;
+	margin:150px 150px 50px 150px;
+	padding:10px 10px 10px 10px;
+	position:relative;
+	overflow:hidden;
+}
+.banner img{
+	max-width:100%;
+	}
+.box{
+	width:200px;
+	height:180px;
+	background:#D7CCC8;
+	border-radius:15px;
+	float: space-between;
+	box-shadow: 2px 2px 2px black;
+	margin:20px;
+	padding:20px 20px 20px 20px;
+	color:black;
+	position:relative;
+	overflow:hidden;
+	display: inline-block;
+}
+
+.partner span img{
+	width:4.8%;
+	margin:0px 0.7%;
+	min-width:35px;
+}
+
+}
